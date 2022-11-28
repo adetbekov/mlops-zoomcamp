@@ -1,5 +1,14 @@
 # MacOS | Environment preparation
 
+## Pre Step :
+In the case Mac do not have home brew ...please install that even before Step1 run Command: 
+-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+or you can check 
+
+https://www.youtube.com/watch?v=G1BV-QyKa44
+https://brew.sh/
+
+
 ## Step 1: Download and install the Anaconda distribution of Python
 ```sh
 brew install anaconda --cask
